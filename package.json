@@ -1,5 +1,5 @@
 {
-  "name": "n-ahj-hw.-4_testing_credit-card-validator",
+  "name": "creditCardValidator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,8 +18,8 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "a-naraikin",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
@@ -46,5 +46,5 @@
   "dependencies": {
     "core-js": "^3.6.0"
   },
-  "repository": "https://github.com/a-naraikin/n-ahj-hw.-4_testing_credit-card-validator"
+  "repository": "https://github.com/Ksenia-Mesh/creditCardValidator"
 }
